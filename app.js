@@ -17,7 +17,7 @@ const data = [
         imfo5:"23.5",},
         a3:{info6:"Высота ступеньки, мм",
        info7:"20"},
-       img:"./img/header/Product picture.svg"
+       img:"./img/header/Product picture2.png"
     },
     {
         info : "Металлочерепица Classic",
@@ -27,7 +27,7 @@ const data = [
         imfo5:"23.5",},
         a3:{info6:"Высота ступеньки, мм",
        info7:"20"},
-       img:"./img/header/Product picture.svg"
+       img:"./img/header/Product picture3.png"
     },
     {
         info : "Металлочерепица Classic",
@@ -37,7 +37,7 @@ const data = [
         imfo5:"23.5",},
         a3:{info6:"Высота ступеньки, мм",
        info7:"20"},
-       img:"./img/header/Product picture.svg"
+       img:"./img/header/Product picture4.png"
     },
     {
         info : "Металлочерепица Classic",
@@ -47,7 +47,7 @@ const data = [
         imfo5:"23.5",},
         a3:{info6:"Высота ступеньки, мм",
        info7:"20"},
-       img:"./img/header/Product picture.svg"
+       img:"./img/header/Product picture5.png"
     },
     {
         info : "Металлочерепица Classic",
@@ -57,7 +57,7 @@ const data = [
         imfo5:"23.5",},
         a3:{info6:"Высота ступеньки, мм",
        info7:"20"},
-       img:"./img/header/Product picture.svg"
+       img:"./img/header/Product picture6.png"
     },
     {
         info : "Металлочерепица Classic",
@@ -67,7 +67,7 @@ const data = [
         imfo5:"23.5",},
         a3:{info6:"Высота ступеньки, мм",
        info7:"20"},
-       img:"./img/header/Product picture.svg"
+       img:"./img/header/Product picture7.png"
     },
     {
         info : "Металлочерепица Classic",
@@ -77,7 +77,7 @@ const data = [
         imfo5:"23.5",},
         a3:{info6:"Высота ступеньки, мм",
        info7:"20"},
-       img:"./img/header/Product picture.svg"
+       img:"./img/header/Product picture8.png"
     },
     
     
